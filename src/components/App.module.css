@@ -4,3 +4,11 @@
   padding: 2rem;
   text-align: center;
 }
+
+.container {
+  margin: 0 30px;
+}
+
+.header {
+  font-size: 40px;
+}
